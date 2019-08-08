@@ -1,0 +1,28 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "9d3d9d6ce1ec63eaa26281e6162853c9",
+      "css": "camera-alt",
+      "code": 59392,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "aklhk54yg779pgovdsjr9r9w22hej00n",
+      "css": "camera",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "6b6e59e33915710a9f935b04a06d507d",
+      "css": "camera-1",
+      "code": 59394,
+      "src": "elusive"
+    }
+  ]
+}
